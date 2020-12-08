@@ -586,6 +586,7 @@ address {
 
 .container.footer {
   display: flex;
+  align-items: baseline;
 }
 
 .join {
